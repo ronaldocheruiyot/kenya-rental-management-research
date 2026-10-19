@@ -1,0 +1,15 @@
+tenancy_id,unit_id,tenant_id,lease_start_date,lease_end_date,lease_type,monthly_rent,deposit_paid,deposit_amount,service_charge,notice_period_days,payment_due_day,payment_method,late_penalty_per_day,status,move_in_date,move_out_date,notice_given_date,deposit_refunded,deposit_refund_date,notes
+TEN001,U001,T001,2026-01-15,2027-01-14,Fixed 1 Year,12000,Yes,12000,0,30,5,M-Pesa Paybill 400200,50,Active,2026-01-15,,,No,,Excellent tenant - tech professional
+TEN002,U002,T002,2026-02-15,,Month-to-Month,25000,Yes,25000,0,30,5,M-Pesa Paybill 400200,100,Active,2026-02-15,,,No,,Bank teller - stable job
+TEN003,U003,T006,2026-03-15,2028-03-14,Fixed 2 Years,45000,Yes,90000,2000,60,1,Bank Transfer,450,Active,2026-03-15,,,No,,Premium unit - banking professional
+TEN004,U004,T011,2026-08-05,2027-08-04,Fixed 1 Year,45000,Yes,90000,2000,60,1,Bank Transfer,450,Active,2026-08-05,,,No,,University lecturer - new tenant
+TEN005,U005,T003,2026-01-20,,Month-to-Month,28000,Yes,28000,0,30,5,M-Pesa Paybill 400200,100,Active,2026-01-20,,,No,,Self-employed electrician
+TEN006,U006,T005,2026-02-25,,Month-to-Month,28000,Yes,28000,0,30,5,M-Pesa Paybill 400200,100,Active,2026-02-25,,,No,,Healthcare worker - shift schedules
+TEN007,U007,T013,2025-06-20,2026-08-31,Fixed 1 Year,12000,Yes,12000,0,30,5,M-Pesa Paybill 400200,50,Ended,2025-06-20,2026-08-20,2026-07-20,Yes,2026-09-10,Bought own house - smooth move-out
+TEN008,U008,T008,2026-05-05,,Month-to-Month,12000,Yes,12000,0,30,5,M-Pesa Paybill 400200,50,Active,2026-05-05,,,No,,Store manager - retail sector
+TEN009,U009,T010,2026-07-15,2027-07-14,Fixed 1 Year,26000,Yes,26000,0,30,5,M-Pesa Paybill 400200,100,Active,2026-07-15,,,No,,Journalist - media professional
+TEN010,U010,T012,2026-09-10,,Month-to-Month,26000,Yes,26000,0,30,5,M-Pesa Paybill 400200,100,Active,2026-09-10,,,No,,Flight attendant - new tenant
+TEN011,U011,T004,2026-03-05,2028-03-04,Fixed 2 Years,180000,Yes,540000,30000,90,5,Bank Transfer,3600,Active,2026-03-05,,,No,,Tech startup - 8 employees
+TEN012,U012,T007,2026-04-20,2027-04-19,Fixed 1 Year,120000,Yes,360000,21250,90,5,Bank Transfer,2400,Active,2026-04-20,,,No,,Consulting firm - growing business
+TEN013,U013,T009,2026-06-05,2028-06-04,Fixed 2 Years,220000,Yes,660000,37500,90,5,Bank Transfer,4400,Active,2026-06-05,,,No,,Logistics company - premium office
+TEN014,U015,T012,2026-09-15,2027-09-14,Fixed 1 Year,20000,Yes,20000,0,30,5,M-Pesa Paybill 400200,100,Active,2026-09-15,,,No,,Coastal property tenant

@@ -1,0 +1,5 @@
+staff_id,staff_name,role,phone,email,id_number,kra_pin,properties_managed,date_hired,salary,status,notes
+STF001,Michael Wekesa Wafula,Property Manager,+254720555666,michael.wekesa@rentalmanagement.co.ke,25678901,A011122334M,"P001,P003",2024-01-15,80000,Active,Manages residential properties - 5 years experience
+STF002,Diana Njoki Mwangi,Commercial Property Manager,+254733666777,diana.njoki@rentalmanagement.co.ke,27890123,A022233445N,P002,2024-06-01,95000,Active,Specialized in commercial leasing
+STF003,John Kariuki Macharia,Caretaker - Maplewood,+254711777888,john.kariuki.caretaker@gmail.com,30234567,A033344556O,P001,2024-02-01,35000,Active,On-site caretaker for P001
+STF004,Alice Njeri Kamau,Accountant,+254722888999,alice.njeri@rentalmanagement.co.ke,29345678,A044455667P,All,2024-03-10,70000,Active,Handles all financial records and KRA returns

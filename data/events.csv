@@ -1,0 +1,43 @@
+event_id,event_type,event_date,property_id,unit_id,tenant_id,tenancy_id,event_description,recorded_by,follow_up_required,follow_up_date,status,notes
+EVT001,Move-In,2026-01-15,P001,U001,T001,TEN001,Tenant David Rotich moved in - inspection completed,STF001,No,,,Smooth move-in
+EVT002,Move-In,2026-02-15,P001,U002,T002,TEN002,Tenant Grace Omondi moved in - inspection completed,STF001,No,,,Smooth move-in
+EVT003,Move-In,2026-03-15,P001,U003,T006,TEN003,Tenant Peter Otieno moved in - premium unit,STF001,No,,,Smooth move-in
+EVT004,Move-In,2026-01-20,P001,U005,T003,TEN005,Tenant James Kamau moved in - self-employed electrician,STF001,No,,,Smooth move-in
+EVT005,Move-In,2026-02-25,P001,U006,T005,TEN006,Tenant Fatuma Hassan moved in - nurse with shift work,STF001,No,,,Smooth move-in
+EVT006,Move-In,2026-05-05,P001,U008,T008,TEN008,Tenant Lucy Wanjiru moved in - store manager,STF001,No,,,Smooth move-in
+EVT007,Move-In,2026-07-15,P001,U009,T010,TEN009,Tenant Brian Koech moved in - journalist,STF001,No,,,Smooth move-in
+EVT008,Move-In,2026-09-10,P001,U010,T012,TEN010,Tenant Collins Owino moved in - flight attendant,STF001,No,,,Smooth move-in
+EVT009,Move-In,2026-03-05,P002,U011,T004,TEN011,TechHub Solutions Ltd moved in - startup office,STF002,No,,,Commercial tenant - 8 employees
+EVT010,Move-In,2026-08-05,P001,U004,T011,TEN004,Tenant Amina Ali moved in - university lecturer,STF001,No,,,Smooth move-in
+EVT011,Notice Given,2026-07-20,P001,U007,T013,TEN007,Tenant Nancy Kimani gave 30 days notice - buying own house,STF001,Yes,2026-08-20,Closed,Notice period ended - moved out smoothly
+EVT012,Move-Out,2026-08-20,P001,U007,T013,TEN007,Tenant Nancy Kimani moved out - deposit refunded KSh 12000,STF001,Yes,2026-09-10,Closed,Joint inspection done - no damages
+EVT013,Maintenance Request,2026-03-22,P001,U002,T002,TEN002,Leaking kitchen faucet reported,STF003,Yes,2026-03-23,Resolved,Plumber fixed same day
+EVT014,Maintenance Request,2026-04-10,P001,U001,T001,TEN001,Toilet flush mechanism broken,STF003,Yes,2026-04-11,Resolved,Plumber replaced parts
+EVT015,Maintenance Request,2026-05-15,P001,U003,T006,TEN003,Air conditioning not cooling properly,STF003,Yes,2026-05-16,Resolved,AC serviced - gas refill
+EVT016,Maintenance Request,2026-06-08,P001,U005,T003,TEN005,Bedroom door lock stiff,STF003,Yes,2026-06-09,Resolved,Locksmith oiled and adjusted
+EVT017,Maintenance Request,2026-06-20,P002,U011,T004,TEN011,Office ceiling light flickering,STF002,Yes,2026-06-21,Resolved,Electrician replaced ballast
+EVT018,Maintenance Request,2026-07-12,P001,U006,T005,TEN006,Water heater not working,STF003,Yes,2026-07-13,Resolved,Element replaced - tenant happy
+EVT019,Maintenance Request,2026-08-05,P001,U002,T002,TEN002,Bedroom window won't close properly,STF003,Yes,2026-08-07,Resolved,Carpenter adjusted hinges
+EVT020,Maintenance Request,2026-08-18,P001,U008,T008,TEN008,Kitchen sink draining slowly,STF003,Yes,2026-08-19,Resolved,Plumber cleared blockage
+EVT021,Maintenance Request,2026-09-03,P001,U003,T006,TEN003,Shower head leaking,STF003,Yes,2026-09-04,Resolved,Plumber replaced shower head
+EVT022,Maintenance Request,2026-09-22,P001,U009,T010,TEN009,Living room light switch not working,STF003,Yes,2026-09-23,Resolved,Electrician replaced switch
+EVT023,Maintenance Request,2026-10-08,P001,U001,T001,TEN001,Kitchen cabinet door hinge loose,STF003,Yes,2026-10-09,Resolved,Caretaker tightened screws
+EVT024,Maintenance Request,2026-10-12,P002,U011,T004,TEN011,Office door lock jamming,STF002,Yes,2026-10-14,Open,Locksmith scheduled for Oct 15
+EVT025,Maintenance Request,2026-10-15,P001,U005,T003,TEN005,Bathroom tap dripping,STF003,Yes,2026-10-16,Open,Plumber scheduled for Oct 17
+EVT026,Late Payment Warning,2026-07-08,P001,U002,T002,TEN002,Rent payment 3 days overdue - first reminder sent,STF001,Yes,2026-07-10,Resolved,Partial payment received July 8
+EVT027,Late Payment Warning,2026-08-06,P001,U006,T005,TEN006,Rent payment 1 day overdue - reminder SMS sent,STF001,Yes,2026-08-07,Resolved,Payment received Aug 7
+EVT028,Late Payment Warning,2026-09-07,P001,U005,T003,TEN005,Rent payment 2 days overdue - phone call made,STF001,Yes,2026-09-08,Resolved,Payment received Sep 8
+EVT029,Late Payment Warning,2026-10-06,P001,U002,T002,TEN002,October rent not paid - 1 day overdue,STF001,Yes,2026-10-10,Open,Tenant contacted - promises payment by Oct 10
+EVT030,Late Payment Warning,2026-05-08,P001,U008,T008,TEN008,Rent payment 3 days overdue - reminder sent,STF001,Yes,2026-05-09,Resolved,Payment received May 9
+EVT031,Late Payment Warning,2026-06-07,P001,U003,T006,TEN003,Service charge payment 6 days overdue,STF001,Yes,2026-06-08,Resolved,Payment received June 8
+EVT032,Late Payment Warning,2026-08-10,P001,U009,T010,TEN009,First month rent 5 days overdue - new tenant,STF001,Yes,2026-08-11,Resolved,Payment received Aug 11 - reminded of due date
+EVT033,Late Payment Warning,2026-09-12,P001,U010,T012,TEN010,First month rent 7 days overdue - new tenant,STF001,Yes,2026-09-13,Resolved,Payment received Sep 13 - travel delay explained
+EVT034,Inspection,2026-08-20,P001,U007,T013,TEN007,Move-out inspection conducted - unit in excellent condition,STF001,No,,,No deductions - full deposit refunded
+EVT035,Inspection,2026-05-10,P001,U003,T006,TEN003,Routine 6-month inspection - unit well maintained,STF001,No,,,Tenant commended for cleanliness
+EVT036,Inspection,2026-07-05,P002,U011,T004,TEN011,Routine quarterly inspection - office space well kept,STF002,No,,,Commercial tenant maintaining well
+EVT037,Inspection,2026-08-15,P001,U001,T001,TEN001,Routine 6-month inspection - minor wear noted,STF001,No,,,Normal wear and tear - no concerns
+EVT038,Rent Increase,2026-08-01,P001,U002,T002,TEN002,Rent increase from 25000 to 26000 - 60 days notice given,STF001,No,,,Increase deferred to 2027 after negotiation
+EVT039,Rent Increase,2026-09-01,P001,U005,T003,TEN005,Rent increase from 28000 to 29500 - 60 days notice given,STF001,No,,,Increase deferred to 2027 after negotiation
+EVT040,Complaint,2026-06-15,P001,U006,T005,TEN006,Noise complaint - party in Unit U003 until late,STF003,Yes,2026-06-16,Resolved,Tenant in U003 apologized - warned about noise policy
+EVT041,Complaint,2026-08-22,P001,U002,T002,TEN002,Parking dispute - visitor parked in assigned space,STF003,Yes,2026-08-23,Resolved,Visitor moved car - parking rules re-communicated
+EVT042,Utility Issue,2026-09-18,P001,,,,,Water supply interrupted - county maintenance 9AM-3PM,STF003,No,,,All tenants notified 24 hours in advance

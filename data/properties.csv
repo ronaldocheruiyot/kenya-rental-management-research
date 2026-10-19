@@ -1,0 +1,4 @@
+property_id,property_name,property_type,address,city,county,country,total_units,year_built,landlord_name,landlord_kra_pin,landlord_phone,landlord_email,manager_id,notes
+P001,Maplewood Apartments,Residential,Plot 234 Kindaruma Road,Nairobi,Nairobi,Kenya,10,2018,Margaret Wambui Kariuki,A001234567P,+254722123456,margaret.wambui@example.com,STF001,Mid-range residential complex near Yaya Centre
+P002,Westgate Business Center,Commercial,Westlands Road Corner,Nairobi,Nairobi,Kenya,4,2020,Westgate Properties Limited,P052789456M,+254733987654,info@westgateproperties.co.ke,STF002,Grade B commercial offices with backup generator
+P003,Bamburi Beach Residences,Residential,Links Road Bamburi,Mombasa,Mombasa,Kenya,6,2019,Joseph Mwangi Ndungu,A009876543L,+254711234567,joseph.ndungu@example.com,STF001,Coastal residential near Bamburi Beach

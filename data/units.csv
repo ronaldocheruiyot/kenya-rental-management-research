@@ -1,0 +1,16 @@
+unit_id,property_id,unit_number,floor,unit_type,bedrooms,bathrooms,size_sqm,monthly_rent,deposit_required,service_charge,parking_spaces,furnished,current_status,available_from,legal_framework,permitted_use,notes
+U001,P001,A1,Ground,Bedsitter,0,1,25,12000,12000,0,0,No,Occupied,,Cap 296 Controlled,Residential,Ground floor bedsitter with separate entrance
+U002,P001,A2,Ground,1 Bedroom,1,1,45,25000,25000,0,0,No,Occupied,,Cap 296 Controlled,Residential,Garden-facing unit
+U003,P001,B1,1st,2 Bedroom,2,2,65,45000,90000,2000,1,No,Occupied,,Uncontrolled Residential,Residential,Premium 2BR with parking
+U004,P001,B2,1st,2 Bedroom,2,2,65,45000,90000,2000,1,No,Occupied,,Uncontrolled Residential,Residential,Premium 2BR with parking
+U005,P001,C1,2nd,1 Bedroom,1,1,48,28000,28000,0,0,No,Occupied,,Cap 296 Controlled,Residential,Top floor with good ventilation
+U006,P001,C2,2nd,1 Bedroom,1,1,48,28000,28000,0,0,No,Occupied,,Cap 296 Controlled,Residential,Top floor with good ventilation
+U007,P001,D1,Ground,Bedsitter,0,1,25,12000,12000,0,0,No,Vacant,2026-11-01,Cap 296 Controlled,Residential,Recently vacated - ready for new tenant
+U008,P001,D2,Ground,Bedsitter,0,1,25,12000,12000,0,0,No,Occupied,,Cap 296 Controlled,Residential,Ground floor bedsitter
+U009,P001,E1,1st,1 Bedroom,1,1,45,26000,26000,0,0,No,Occupied,,Cap 296 Controlled,Residential,Renovated kitchen in 2025
+U010,P001,E2,1st,1 Bedroom,1,1,45,26000,26000,0,0,No,Occupied,,Cap 296 Controlled,Residential,Renovated kitchen in 2025
+U011,P002,Suite 201,2nd,Office,0,1,120,180000,540000,30000,3,No,Occupied,,Cap 301 Controlled Commercial,Office,Corner office with natural light
+U012,P002,Suite 202,2nd,Office,0,1,85,120000,360000,21250,2,No,Occupied,,Cap 301 Controlled Commercial,Office,Open plan office space
+U013,P002,Suite 301,3rd,Office,0,1,150,220000,660000,37500,4,No,Occupied,,Cap 301 Controlled Commercial,Office,Full floor premium office
+U014,P002,Suite 101,1st,Office,0,1,75,95000,285000,18750,1,No,Vacant,2026-10-15,Cap 301 Controlled Commercial,Office,Ground floor visibility - ideal for retail-office hybrid
+U015,P003,Apartment 3B,Ground,2 Bedroom,2,2,70,20000,20000,0,1,No,Occupied,,Cap 296 Controlled,Residential,Coastal property near beach
